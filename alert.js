@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      Firewall
-// @description Script is executed every 15s to check if any server has DXP, in which case a sound is played
+// @description Script is executed every 20s to check if any server has DXP, in which case a sound is played
 // ==/UserScript==
 
 
